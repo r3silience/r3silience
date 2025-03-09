@@ -71,7 +71,7 @@ git clone https://github.com/MichaelAquilina/zsh-you-should-use.git ~/.oh-my-zsh
 Éditer le fichier de configuration **Zsh** :
 
 ```sh
-nano ~/.zshrc
+emacs ~/.zshrc
 ```
 
 Puis modifier ces lignes (ou les ajouter si absentes) :
